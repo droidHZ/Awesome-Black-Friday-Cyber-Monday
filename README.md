@@ -494,6 +494,7 @@ Special category for the [Hacker Residency Group](https://www.hackerresidencygro
 | 📜 | [Uncody](https://uncody.com/?utm_source=tonybfdeal) | AI Landing page builder that helps you get leads, newsletter signups | Get 50% off on yearly plans - **BLACKFRIDAY50** |
 | 📜 | [Flly](https://flyy.page/?utm_source=tonybfdeal) | AI Vibe Website builder that offers unlimited edits. | Get 40% off on all plans - **LAUNCH40** |
 | 🧽 | [RemoveMark](https://removemark.io/?utm=tonybf) | Remove text watermarks and handwriting from images, and remove watermarks from videos with AI. |Get 40% off on all plans - **REMOVEMARK40** |
+| 🎬 | [Seedeo](https://seedeo.ai/pricing?utm_source=github&utm_medium=referral&utm_campaign=black_friday_2026&utm_content=frontier_models_one_balance) | Create AI videos, images, music, and voices with leading models through one shared credit balance. | **62% OFF** a one-time pack: 20,000 non-expiring credits for $99 (regularly $259.90) with code **bf26_pack99**. One pack per customer; valid through Nov 30, 2026. |
 
 
 ⬆️ | [Go to Top](#table-of-contents)
